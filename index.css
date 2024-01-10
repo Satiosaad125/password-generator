@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #1F2937;
+    text-align: center;
 }
 
 h1 {
@@ -42,5 +43,7 @@ hr {
     border-radius: 6px;
     color: #4ADF86;
     font-size: 30px;
+    margin: 0 auto;
+    overflow: hidden;
 }
 
