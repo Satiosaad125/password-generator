@@ -46,20 +46,3 @@ hr {
 #second-box {
     margin-left: 200px;
 }
-@media only screen and (max-width:
-768px) {
-    h1 {
-        padding-left: 50px;
-    }
-    h3 {
-        padding-left: 50px;
-    }
-    .pass-btn {
-        margin-left: 50px;
-    }
-    .box-design {
-        margin-left: 50px;
-    }
-    
-
-}
